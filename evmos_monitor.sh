@@ -1,5 +1,4 @@
 #!/bin/bash
-# set -x # uncomment to enable debug
 
 valoper=
 moniker=
