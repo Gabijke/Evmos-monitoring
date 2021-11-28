@@ -216,7 +216,7 @@ Validator voting power. If the value of this parameter is zero, your node isn't 
 Number of delegated tokens
 
 ### Version
-Version of umeed binary
+Version of Evmos binary
 
 ### Vali Rank
 Your node stake rank 
